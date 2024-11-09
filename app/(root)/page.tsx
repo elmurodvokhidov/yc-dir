@@ -1,3 +1,4 @@
+import { auth } from "@/auth";
 import SearchForm from "@/components/SearchForm";
 import StartupCard, { StartupCardType } from "@/components/StartupCard";
 import { sanityFetch, SanityLive } from "@/sanity/lib/live";
